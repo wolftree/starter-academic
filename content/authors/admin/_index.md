@@ -6,7 +6,7 @@ bio: My research interests include machine learning, network theory and network
 interests:
   - Machine Learning
   - Bioinformatics
-  - NetworkBiology
+  - Network Biology
   - Network Pharmacology
 social:
   - icon: envelope
