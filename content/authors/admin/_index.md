@@ -42,4 +42,4 @@ email: ""
 ---
 Lorenzo Madeddu is a computer scientist and PhD student at the IIM Lab at Sapienza University of Rome. His research interests include machine learning, network theory, and network biology. He develops machine learning algorithms in interdisciplinary projects in the fields of healthcare and graph-mining.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_lorenzo_madeddu.pdf" "newtab" >}}resumé{{< /staticref >}}.
