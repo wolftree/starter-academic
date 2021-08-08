@@ -1,4 +1,5 @@
 ---
+title: Lorenzo Madeddu
 role: Computer scientist, PhD
 avatar_filename: cv.jpg
 bio: My research interests include machine learning, network theory and network
@@ -35,11 +36,10 @@ education:
     - course: BSc in Computer Science
       institution: Sapienza University of Rome
       year: 2016
+email: ""
 superuser: true
 highlight_name: false
-title: Lorenzo Madeddu
-email: ""
 ---
-Lorenzo Madeddu is a computer scientist and PhD student at the IIM Lab at Sapienza University of Rome. His research interests include machine learning, network theory, and network biology. He develops machine learning algorithms in interdisciplinary projects in the fields of healthcare and graph-mining.
+Lorenzo Madeddu is a computer scientist and PhD student at the IIM Lab at Sapienza University of Rome. His research interests include machine learning, network theory, and network biology. He develops machine learning algorithms in interdisciplinary projects in the fields of healthcare and graph-mining.CHEKC
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv_lorenzo_madeddu.pdf" "newtab" >}}resumé{{< /staticref >}}.
